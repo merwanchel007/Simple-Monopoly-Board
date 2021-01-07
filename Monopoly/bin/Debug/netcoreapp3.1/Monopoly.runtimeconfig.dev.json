@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\merwa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\merwa\\.nuget\\packages"
+    ]
+  }
+}
